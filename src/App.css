@@ -20,7 +20,7 @@
 }
 
 .search-button{
-  background: lightcoral;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);;
   border: none;
   padding: 10px 20px;
   color: white;

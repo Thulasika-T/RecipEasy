@@ -60,6 +60,7 @@ const App = () => {
             key = {recipe.recipe.label}
             title = {recipe.recipe.label}
             calories = {recipe.recipe.calories}
+            healthLabels = {recipe.recipe.healthLabels}
             image = {recipe.recipe.image}
             ingredients = {recipe.recipe.ingredients}
           />
