@@ -1,6 +1,6 @@
 # RecipEasy
 
-A food recipe application created using only React.js. Demonstrates how to fetch data from an API with React, how to use React hooks and how to pass down data in React with props.
+A food recipe application created using only React.js. Demonstrates how to fetch data from an API with React, how to use React hooks and how to pass down data in React with props.  
 Inspired by Dev Edwin. 
 
 ----
